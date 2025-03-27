@@ -19,18 +19,9 @@ This project is a Snake game enhanced with an AI that uses the A* pathfinding al
    git clone https://github.com/SINGHUJJWALL/snake-ai-game.git
    cd snake-ai-game
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install pygame
 Run the game:
-
-bash
-Copy
-Edit
 python snake_ai.py
 
 ## License
-
 This project is licensed under the [MIT License](LICENSE).
